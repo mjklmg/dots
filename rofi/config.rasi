@@ -1,0 +1,4 @@
+configuration {
+	font: "FiraCodeNerdFontPropo-Regular 10";
+ }
+@theme "/usr/share/rofi/themes/gruvbox-light-soft.rasi"
