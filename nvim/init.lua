@@ -39,7 +39,7 @@ vim.keymap.set('n', 'gd', vim.lsp.buf.definition)
 vim.keymap.set("n", "<leader>y", '"+y')
 vim.keymap.set("v", "<leader>y", '"+y')
 
--- vim.opt.autocomplete = true
--- 
--- vim.opt.complete:append('o')
--- vim.opt.completeopt = {'menuone', 'noselect'}
+-- bultin autocompletion, its kinda limited but works
+vim.opt.autocomplete = true
+vim.opt.complete:append('o')
+vim.opt.completeopt = {'menuone', 'noselect'}
