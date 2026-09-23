@@ -10,7 +10,7 @@ exec --no-startup-id i3-msg 'workspace 2; exec librewolf'
 
 default_border pixel 1
 set $mod Mod4
-font pango:FiraCodeNerdFontPropo Italic 10
+font pango:IosevkaNerdFontPropo Italic 11
 
 exec --no-startup-id dex --autostart --environment i3
 
