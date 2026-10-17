@@ -1,0 +1,11 @@
+[window]
+padding.x = 5
+padding.y = 5
+opacity = 0.85
+
+[font]
+normal = { family = "IosevkaNerdFontMono", style = "Regular" }
+size = 14
+
+[general]
+import = ["~/.config/alacritty/themes/themes/vague.toml"]

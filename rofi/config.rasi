@@ -1,0 +1,4 @@
+configuration {
+	font: "IosevkaNerdFontPropo 12";
+ }
+@theme "/usr/share/rofi/themes/gruvbox-light-soft.rasi"
