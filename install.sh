@@ -19,7 +19,7 @@ find "$DOTFILES" \
     -type d -name ".git" -prune -o \
     -type f \
     ! -name "install.sh" \
-    ! -name "Readme.md" \
+    ! -name "README.md" \
     -print0 |
 while IFS= read -r -d '' file; do
     relative_file="${file#"$DOTFILES"/}"

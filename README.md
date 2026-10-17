@@ -1,4 +1,4 @@
-### my dotfiles
+# my dotfiles
 
 ## how to install
 
